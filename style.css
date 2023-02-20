@@ -1,0 +1,56 @@
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#Heading {
+    font-size:  100px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: royalblue;
+}
+
+.navbar {
+    color: blue;
+}
+
+#navbar-brand {
+    color: blue;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+    
+}
+
+.text-muted {
+    font-size: 20px;
+}
+
+#churchimg {
+    width: 1000px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
+
+#achievement1img {
+    width:500px;
+}
